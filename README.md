@@ -24,7 +24,11 @@ MyMCP3425.h
 Mysht3xV2.h
 
   SHT31/SHT35 改良型温室度センサ用ライブラリ(I2C)
-  
+
+Mysht4x.h
+
+  SHT4x 温室度センサ用ライブラリ(I2C)
+
 
 AVR系ArduinoとRaspberry Pi PICOで動作を確認している。
 
